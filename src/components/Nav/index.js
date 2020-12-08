@@ -19,7 +19,7 @@ function Nav(props) {
   return (
     <header className="flex-row px-1">
       <h2 className="mx-2">
-        <a data-testid="link" href="/developer-portfolio">
+        <a data-testid="link" href="/">
         
           <span role="" aria-label="developer profile" >
           </span> {" "} 🏠

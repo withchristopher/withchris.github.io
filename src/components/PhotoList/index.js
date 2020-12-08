@@ -144,7 +144,7 @@ const PhotoList = ({ category }) => {
       description:'We built a full stack - application and deployed it to Heroku at https://HADEDA-APP.herokuapp.com/ that works with real-world data to solve a real-world challenge, with a focus on user demand:',
       website:'https://github.com/anitapeppercorn/team-chakra'      
     },
-    {
+    { 
       id:20,
       name:'Chris Maxwell Resume',
       category:'resume',
@@ -170,13 +170,12 @@ const PhotoList = ({ category }) => {
         {isModelOpen && <Modal currentPhoto={currentPhoto} onClose={toggleModal}  /> }
         <div className="flex-container">
             {currentPhotos.map((image, i) => ( 
-            <img
-                src={require(`../../assets/small/${category}/${i+1}.png`)}
+            <img             
+                src={require(`../../assets/small/${category}/${i+1}.png`)} 
                 alt={image.name}
                 className="flex-item mx-2 my-2"
                 onClick={() => toggleModal(image, i)}
                 key={image.name}
-                onMouseOver={image.name}
             />
             ))}
         </div>
