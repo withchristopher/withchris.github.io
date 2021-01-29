@@ -293,7 +293,7 @@ html {
 }
 
 body {
-  background: #FBFBFF;
+  background: #040F16;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
@@ -448,7 +448,7 @@ h6,
   font-family: "Fira Sans", sans-serif;
   font-weight: 600;
   clear: both;
-  color: #040F16;
+  color: #FBFBFF;
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
@@ -2168,7 +2168,7 @@ textarea.form-input {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #80A3C4;
+  background: #0685AE;
   z-index: -3;
 }
 
@@ -2662,9 +2662,9 @@ ul.pricing-item-features-list li {
   width: 100%;
   max-width: 100%;
   height: 612px;
-  background-image: url(../images/illustration-section-01.svg);
+  background-image: url(../images/mountain.svg);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: 100%;
   left: 50%;
   top: 0;
   background-position: center top;
@@ -2687,7 +2687,7 @@ ul.pricing-item-features-list li {
 }
 
 .site-footer {
-  color: #6a6f82;
+  color: black;
 }
 
 .features-tiles-item-image {
@@ -2695,8 +2695,8 @@ ul.pricing-item-features-list li {
   border-radius: 50%;
   background: radial-gradient(
     circle at top,
-      #0685AE 40%,
-      #D60E0A 70%
+    #0685AE 40%,
+    #F9A992 70%
   );
 }
 
