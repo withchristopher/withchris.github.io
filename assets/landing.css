@@ -791,7 +791,7 @@ strong {
 }
 
 .container {
-  max-width: 1128px;
+  max-width: 1200px;
 }
 
 .container-sm {
@@ -2661,7 +2661,7 @@ ul.pricing-item-features-list li {
   position: absolute;
   width: 100%;
   max-width: 100%;
-  height: 612px;
+  height: 615px;
   background-image: url(../images/mountain.svg);
   background-repeat: no-repeat;
   background-size: 100%;
