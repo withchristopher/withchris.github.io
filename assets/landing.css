@@ -905,7 +905,7 @@ strong {
 }
 
 .button-primary:hover {
-  background-color: #4678f9;
+  background-color: #F9A992;
 }
 
 .button-primary.is-loading::after {
