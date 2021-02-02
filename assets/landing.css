@@ -3473,7 +3473,8 @@ img.has-shadow {
   animation: pulse 4s infinite;
 }
 .pulse:hover {
-  animation: none;
+  border: 0;
+  background: linear-gradient(100deg, #F9A992 40%, #0685AE 70%,);
 }
 
 @-webkit-keyframes pulse {
