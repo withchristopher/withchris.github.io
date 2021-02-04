@@ -293,7 +293,7 @@ html {
 }
 
 body {
-  background: #040F16;
+  background: #47011D;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
@@ -351,7 +351,7 @@ dd {
 }
 
 img {
-  border-radius: 2px;
+  border-radius: 100px;
 }
 
 img,
@@ -953,7 +953,7 @@ strong {
 
 @media (max-width: 640px) {
   .button-wide-mobile {
-    width: 100%;
+    width: 70%;
     max-width: 280px;
   }
 }
@@ -1856,7 +1856,7 @@ textarea.form-input {
 
 @media (max-width: 640px) {
   .split-wrap .split-item .split-item-content {
-    margin-bottom: 32px;
+    margin-bottom: 3px;
   }
 
   .split-wrap.invert-mobile .split-item .split-item-content {
@@ -1883,8 +1883,9 @@ textarea.form-input {
   }
 
   .split-wrap .split-item {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 100px;
+    margin-left: 0;
+    padding-bottom: 20px;
     flex-direction: row;
     flex-wrap: nowrap;
     align-items: center;
@@ -2331,7 +2332,7 @@ textarea.form-input {
 }
 
 .section-header {
-  padding-bottom: 48px;
+  padding-bottom: 2vh;
 }
 
 @media (min-width: 641px) {
@@ -2341,7 +2342,7 @@ textarea.form-input {
   }
 
   .section-header {
-    padding-bottom: 80px;
+    padding-bottom: 2vh;
   }
 }
 
@@ -2375,7 +2376,7 @@ textarea.form-input {
 
 @media (min-width: 641px) {
   .features-split .section-header {
-    padding-bottom: 92px;
+    padding-bottom: 2vh;
   }
 }
 
@@ -2539,7 +2540,7 @@ ul.pricing-item-features-list li {
 
 @media (min-width: 641px) {
   .team .section-header {
-    padding-bottom: 80px;
+    padding-bottom: 2vh;
   }
 
   .team .tiles-wrap {
@@ -2568,7 +2569,7 @@ ul.pricing-item-features-list li {
 
 .cta .section-inner {
   padding-top: 48px;
-  padding-bottom: 48px;
+  padding-bottom: 20px;
 }
 
 .cta-slogan {
@@ -2696,7 +2697,7 @@ ul.pricing-item-features-list li {
   background: radial-gradient(
     circle at top,
     #0685AE 40%,
-    #F9A992 70%
+    #EA584B 70%
   );
 }
 
@@ -2968,6 +2969,7 @@ ul.pricing-item-features-list li.is-checked::after {
 
 img.has-shadow {
   border-radius: 2px;
+  border-radius: 100px;
 }
 
 .has-top-divider {
