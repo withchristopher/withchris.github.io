@@ -420,7 +420,8 @@ html {
 }
 
 body {
-  color: #0685AE;
+  color: #FBFBFF;
+  /* color: #0685AE; */
   font-size: 1rem;
 }
 
@@ -432,6 +433,8 @@ textarea {
   font-family: "Heebo", sans-serif;
   font-weight: 400; 
 }
+
+
 
 h1,
 h2,
@@ -448,7 +451,8 @@ h6,
   font-family: "Fira Sans", sans-serif;
   font-weight: 600;
   clear: both;
-  color: #FBFBFF;
+  color: #0685AE;
+  /* color: #FBFBFF; */
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
@@ -457,6 +461,7 @@ h1,
 .h1 {
   font-size: 38px;
   line-height: 48px;
+  color: #FBFBFF;
 }
 
 h2,
@@ -493,6 +498,10 @@ small,
   font-size: 18px;
   line-height: 30px;
   letter-spacing: -0.1px;
+}
+
+.h6-exception {
+  color: #FBFBFF;
 }
 
 .text-xs {
