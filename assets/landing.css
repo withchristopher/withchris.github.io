@@ -351,7 +351,7 @@ dd {
 }
 
 img {
-  border-radius: 100px;
+  border-radius: 10px;
 }
 
 img,
@@ -2693,12 +2693,8 @@ ul.pricing-item-features-list li {
 
 .features-tiles-item-image {
   display: inline-flex;
-  border-radius: 50%;
-  background: radial-gradient(
-    circle at top,
-    #0685AE 40%,
-    #EA584B 70%
-  );
+  background: none;
+  width: auto;
 }
 
 .pricing .tiles-item-inner {
