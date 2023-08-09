@@ -1,9 +1,9 @@
 <h1 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&size=15&color=3F94F7&lines=Full-stack+developer...;Solving+the+problems+with+misinformation+at+Factiverse...;I+am+based+in+Oslo%2C+Norway.;+I+was+born+in+Cape+Town%2C+South+Africa.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&size=15&duration=7500&color=3F94F7&center=true&vCenter=true&lines=My+name+is+Christopher+Maxwell%2C+I+am+a+full-stack+developer...;Solving+the+problems+with+misinformation+at+Factiverse...;I+am+based+in+Oslo%2C+Norway.;+I+was+born+in+Cape+Town%2C+South+Africa.)](https://git.io/typing-svg)
 </h1>
 
-<p align="center">
+<article align="center">
   I am Christopher Maxwell. I lived in South Africa for my first 30 years. I have skills
   in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software for the courts in The Hague.
   
@@ -12,7 +12,7 @@
   I hold a BSc Mathematics and Physics (RU) and BSc(HONS) in Quantum Information Science (UKZN).
 
 
-<p/>
+<article/>
 <p align="center">
   <a href="mailto:chris@factiverse.no">
      <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">

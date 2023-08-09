@@ -1,0 +1,29 @@
+<svg width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.7">
+<path d="M59 115H25V25H59" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M110 30V109.5" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64 120C61.2386 120 59 117.761 59 115C59 112.239 61.2386 110 64 110C66.7614 110 69 112.239 69 115C69 117.761 66.7614 120 64 120Z" stroke="white" stroke-width="3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64 30C61.2386 30 59 27.7614 59 25C59 22.2386 61.2386 20 64 20C66.7614 20 69 22.2386 69 25C69 27.7614 66.7614 30 64 30Z" stroke="white" stroke-width="3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M110 30C107.239 30 105 27.7614 105 25C105 22.2386 107.239 20 110 20C112.761 20 115 22.2386 115 25C115 27.7614 112.761 30 110 30Z" stroke="white" stroke-width="3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M110 120C107.239 120 105 117.761 105 115C105 112.239 107.239 110 110 110C112.761 110 115 112.239 115 115C115 117.761 112.761 120 110 120Z" stroke="white" stroke-width="3"/>
+<path d="M81 81.9483V103H37V37H81V58.0517" stroke="#3873FF" stroke-width="4"/>
+<path d="M35 35L69 47.3562V117.5L35 105.144V35Z" fill="url(#paint0_linear_65_16850)"/>
+<rect width="4.41249" height="21.1799" transform="matrix(0 -1 -1 0 90.4749 72.2219)" fill="#3CE1CD"/>
+<path d="M73.9842 80L77.1043 76.8799L67.12 66.8956L63.9999 70.0157L73.9842 80Z" fill="#3CE1CD"/>
+<path d="M73.9842 60L77.1043 63.1201L67.12 73.1044L63.9999 69.9843L73.9842 60Z" fill="#3CE1CD"/>
+<rect opacity="0.1" x="89" y="11" width="10.381" height="10.381" fill="#3CE1CD"/>
+<rect opacity="0.4" x="89" y="24.4951" width="10.381" height="10.381" fill="#3CE1CD"/>
+<rect opacity="0.7" x="89" y="37.9905" width="10.381" height="10.381" fill="#3CE1CD"/>
+<rect x="89" y="51.4858" width="10.381" height="10.381" fill="#3CE1CD"/>
+<rect opacity="0.1" width="10.381" height="10.381" transform="matrix(1 0 0 -1 89 128.733)" fill="#3CE1CD"/>
+<rect opacity="0.4" width="10.381" height="10.381" transform="matrix(1 0 0 -1 89 115.238)" fill="#3CE1CD"/>
+<rect opacity="0.7" width="10.381" height="10.381" transform="matrix(1 0 0 -1 89 101.743)" fill="#3CE1CD"/>
+<rect width="10.381" height="10.381" transform="matrix(1 0 0 -1 89 88.2476)" fill="#3CE1CD"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_65_16850" x1="52" y1="35" x2="52" y2="117.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3873FF"/>
+<stop offset="1" stop-color="#3873FF" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
