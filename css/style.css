@@ -781,29 +781,32 @@ b, strong {
 }
 
 .button-primary {
-    border-color: #1EC198;
+    border-color: #53F28D;
     color: #ffffff;
     font-size: small;
     letter-spacing: 1.75px;
 }
 
 .button-primary:hover {
-    background-color: #1EC198
+    background: linear-gradient(to left, #53F28D ,#54EAEE );
+    color: #000000;
 }
 
 .button-primary.is-loading::after {
-    border-color: #F9FAFF
+    border-color: #F9FAFF;
 }
 
 .button-secondary {
-    border-color: #915bee;
+    border-color: #837EF7;
     color: #ffffff;
     font-size: small;
     letter-spacing: 1.75px;
 }
 
 .button-secondary:hover {
-    background-color: #915bee
+    background: linear-gradient(to right, #837EF7 ,#BDD5F7 );
+    color: #000000;
+    
 }
 
 .button-secondary.is-loading::after {
@@ -1792,10 +1795,10 @@ textarea.form-input {
 }
 
 .tiles-item {
-    flex-basis: 330px;
-    max-width: 400px;
+    flex-basis: 500px;
+    max-width: 450px;
     box-sizing: content-box;
-    padding: 12px;
+    padding: 24px;
     border: #206674 1px solid;
     border-radius: 25px;
     margin: 20px;
@@ -1812,7 +1815,6 @@ textarea.form-input {
 }
 
 .tech-item-core {
-    
     min-width: 50%;
     box-sizing: content-box;
     padding: 12px;
