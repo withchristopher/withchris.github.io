@@ -390,7 +390,7 @@ body, button, input, select, textarea, article, {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: "LaoMN";
-    font-weight: 600;
+    font-weight: 400;
     clear: both;
     color: #F9FAFF;
     word-wrap: break-word;
@@ -2078,9 +2078,9 @@ textarea.form-input {
 }
 
 .sub-heading-block-title {
-    font-size: 21px;
-    line-height: 22px;
-    font-weight: 700;
+    
+    letter-spacing: 5px;
+    font-weight: 500;
     color: #F9FAFF;
     text-transform: uppercase;
     margin-bottom: 8px
@@ -2813,7 +2813,7 @@ ul.pricing-item-features-list li.is-checked::after {
 }
 
 .text-color-mid {
-    color: #959CB1
+    color: #ced1d9
 }
 
 .text-color-low {
