@@ -46,7 +46,6 @@
     viewportHeight = window.innerHeight
     throttle(30, revealElements())
   }
-
   function revealDone () {
     if (revealEl.length > document.querySelectorAll('[class*=reveal-].is-revealed').length) return
     window.removeEventListener('load', revealElements)

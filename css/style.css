@@ -201,7 +201,7 @@ template {
     display: none
 }
 
-@media (min-width: 641px) {
+@media (min-width: 201px) {
     .has-animations [class*=reveal-] {
         opacity: 0;
         will-change: opacity, transform
@@ -2868,16 +2868,6 @@ img.has-shadow {
     position: relative
 }
 
-.has-top-divider::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    display: block;
-    height: 1px;
-    background: #292B32
-}
 
 .has-bottom-divider {
     position: relative
