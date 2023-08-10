@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Fira+Sans:600|Heebo:400,500,700&display=swap");
+@import url("../fonts/LaoMN.ttc");
+@import url("../fonts/NewPeninimMT.ttc");
 
 html {
     line-height: 1.15;
@@ -382,13 +383,13 @@ body {
     font-size: 1rem
 }
 
-body, button, input, select, textarea {
-    font-family: "Heebo", sans-serif;
-    font-weight: 400
+body, button, input, select, textarea, article, {
+    font-family: "NewPeninimMT";
+    font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "Fira Sans", sans-serif;
+    font-family: "LaoMN";
     font-weight: 600;
     clear: both;
     color: #F9FAFF;
@@ -431,6 +432,7 @@ h6, .h6, small, .text-sm {
 }
 
 .text-xs {
+    font: "NewPeninimMT"
     font-size: 16px;
     line-height: 24px;
     letter-spacing: -0.1px
@@ -492,6 +494,7 @@ h4, h5, h6, .h4, .h5, .h6 {
 }
 
 p {
+    font-family: "NewPeninimMT";
     margin-top: 0;
     margin-bottom: 24px
 }
@@ -696,7 +699,7 @@ b, strong {
 }
 
 .button {
-    font: lato, helvetica, arial, sans-serif;
+    font: inherit;
     display: inline-flex;
     font-size: 14px;
     line-height: 22px;
@@ -2584,6 +2587,21 @@ ul.pricing-item-features-list li {
     transform: translate(0%);  
 }
 
+.profile-0::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    max-width: 100%;
+    height: 612px;
+    background-image: url(../images/profile-00.svg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    left: 50%;
+    top: 0;  
+    background-position: center;
+    transform: translate(0%);  
+}
+
 .site-footer {
     color: #6A6F82
 }
@@ -2697,7 +2715,7 @@ ul.pricing-item-features-list li.is-checked::after {
 }
 
 .testimonial-item-footer {
-    font-family: "Fira Sans", sans-serif;
+    font-family: "NewPeninimMT";
     font-weight: 600;
     padding-top: 20px
 }
